@@ -1,0 +1,12 @@
+crewai
+crewai-tools
+langsmith
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+google-generativeai
+streamlit
+pandas
+python-dotenv
+pydantic
