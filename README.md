@@ -265,7 +265,7 @@ python langsmith_setup.py --action compare
 |---|---|
 | Agent orchestration | [CrewAI](https://github.com/crewAIInc/crewAI) |
 | Tracing & evaluation | [LangSmith](https://smith.langchain.com) |
-| LLM | Google Gemini 1.5 Pro / Flash |
+| LLM | Google Gemini 3.6 Flash |
 | Vector store | [Chroma](https://www.trychroma.com/) |
 | Embeddings | Google text-embedding-004 |
 | UI | [Streamlit](https://streamlit.io) |
